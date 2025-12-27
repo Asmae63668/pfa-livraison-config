@@ -1,0 +1,4 @@
+server.port=8888
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
+# La config des routes est gérée localement pour simplifier, 
+# mais on met le port ici pour montrer le principe.
